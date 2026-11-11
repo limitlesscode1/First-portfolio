@@ -1,2 +1,3 @@
 # First-portfolio
-my first site, still has areas to work on and improve on
+My first portfolio, still has areas to work on and improve on
+Hope you like it.
